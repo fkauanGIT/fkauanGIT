@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Francisco Kauan, tenho 18 anos e sou natural de Alagoas. Concluínte do ensino médio, com o curso técnico em informática para internet, pelo o SENAC. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR. 
+Me chamo Francisco Kauan, tenho 18 anos e sou natural de Alagoas. Concluínte do ensino médio, cursando o curso de técnico em informática para internet, pelo o SENAC. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR. 
 
 <p align="left">
     <a href="https://github.com/fkauanGIT?tab=repositories&sort=stargazers">

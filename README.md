@@ -1,4 +1,5 @@
-# 👨‍💻 Francisco Kauan
+# ![programmer_17905521](https://github.com/user-attachments/assets/d412a95c-10c7-49f6-a0d5-5fb8e4b35f77)
+ Francisco Kauan
 
 **`Desenvolvedor FullStack`**
 

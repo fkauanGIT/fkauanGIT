@@ -10,17 +10,18 @@ Me chamo Francisco Kauan, tenho 18 anos e sou natural de Alagoas. Concluínte do
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/fkauanGIT?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://img.shields.io/github/stars/fkauanGIT?style=for-the-badge&color=green"
         />
     </a>
     <a href="https://github.com/fkauanGIT?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/fkauanGIT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/fkauanGIT?style=for-the-badge&color=blue"
         />
     </a>
 </p>
+
 
 ---
 

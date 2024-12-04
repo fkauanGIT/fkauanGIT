@@ -17,7 +17,7 @@ Me chamo Francisco Kauan, tenho 18 anos e sou natural de Alagoas. Concluínte do
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/fkauanGIT?style=for-the-badge&labelColor=0000AA&color=0000AA&logoColor=white"
+            src="https://img.shields.io/github/followers/fkauanGIT?style=for-the-badge&labelColor=7bb4e3&color=7bb4e3&logoColor=white"
         />
     </a>
 </p>

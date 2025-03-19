@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Kauan</h1>
-<h3 align="center">Desenvolvedor FullStack Java / JavaScript</h3>
+<h3 align="center">Desenvolvedor Backend Java / JavaScript</h3>
 
 - 🌱 I’m currently learning **Java, Spring Boot, nextJS.**
 

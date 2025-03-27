@@ -15,15 +15,16 @@ I’m constantly working on new projects to stay sharp and push my skills to the
 <br/>
             
 ### 📚 My Stack
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,javascript,html,css,sass,postgres,postman,figma,java,springboot" />
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,javascript,html,css,sass,postgres,postman,figma,java,spring" />
 
 ### 🧠 I'm Learning
-<img src="https://skillicons.dev/icons?i=aiscript,docker"/><br>
+<img src="https://skillicons.dev/icons?i=python,docker"/><br>
 </div>
 
 
 <br/>
     
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fkauanGIT&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkauanGIT&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fkauanGIT&theme=nord_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkauanGIT&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+
  | ----------- | ----------- |
  

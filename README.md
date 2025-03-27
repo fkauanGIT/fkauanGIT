@@ -1,5 +1,5 @@
 # Hey There! 👋
-I'm Francisco Kauan, a passionate **Backend developer**. I enjoy creating engaging digital experiences, building online communities, and exploring the latest in technology. 
+I'm Francisco Kauan, a passionate **Backend developer**. I enjoy creating engaging digital experiences and exploring the latest in technology. 
 
 I’m constantly working on new projects to stay sharp and push my skills to the next level. 🤖  
 
@@ -24,7 +24,7 @@ I’m constantly working on new projects to stay sharp and push my skills to the
 
 <br/>
     
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fkauanGIT&theme=nord_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkauanGIT&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| GitHub Commits | GitHub Details |
+| -------------- | -------------- |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fkauanGIT&theme=nord_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkauanGIT&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 
- | ----------- | ----------- |
- 

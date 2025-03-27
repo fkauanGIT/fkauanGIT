@@ -15,10 +15,10 @@ I’m constantly working on new projects to stay sharp and push my skills to the
 <br/>
             
 ### 📚 My Stack
-<img src="https://skillicons.dev/icons?i=react,vite,typescript,javascript,html,css,sass,styledcomponents,mysql,postman,figma" />
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,javascript,html,css,sass,postgres,postman,figma,java,springboot" />
 
 ### 🧠 I'm Learning
-<img src="https://skillicons.dev/icons?i=aiscript,docker,postgres,redux,nodejs,jest,linux,firebase"/><br>
+<img src="https://skillicons.dev/icons?i=aiscript,docker"/><br>
 </div>
 
 

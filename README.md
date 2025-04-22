@@ -21,10 +21,10 @@ I’m constantly working on new projects to stay sharp and push my skills to the
 <img src="https://skillicons.dev/icons?i=python,docker"/><br>
 </div>
 
-
 <br/>
     
 | GitHub Commits | GitHub Details |
 | -------------- | -------------- |
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fkauanGIT&theme=nord_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkauanGIT&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fkauanGIT&theme=nord_dark&utcOffset=-3) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkauanGIT&theme=nord_dark) |
 
+![GitHub Streak](https://streak-stats.demolab.com?user=fkauanGIT&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3)

@@ -27,7 +27,6 @@ src="https://streak-stats.demolab.com?user=fkauanGIT&hide_border=true&background
 <h2 align="center">🛠️ Hard Skills</h2>
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -40,5 +39,8 @@ src="https://streak-stats.demolab.com?user=fkauanGIT&hide_border=true&background
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Virtualization-555555?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/Infrastructure-1768B5?style=for-the-badge&logo=windows&logoColor=white" />
-
 </p>
+
+<br><br><br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1FB8E5,50:1768B5,100:221B7A&height=100&section=footer)

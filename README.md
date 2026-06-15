@@ -1,28 +1,44 @@
-# Hey There! 👋
-I'm Francisco Kauan, a passionate **Backend developer**. I enjoy creating engaging digital experiences and exploring the latest in technology. 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1FB8E5,50:1768B5,100:221B7A&height=300&section=header&text=Francisco%20Kauan&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Infrastructure%20Analyst%20•%20Linux%20Enthusiast&descSize=20&descAlignY=55)
 
-I’m constantly working on new projects to stay sharp and push my skills to the next level. 🤖  
+<p align="center">
+Backend Developer • Infrastructure Analyst • Linux Enthusiast
+<br>
+Passionate about automation, enterprise systems and scalable solutions.
+</p>
 
-## About me 
+<table align="center">
+<tr>
+<td>
 
-<a href="https://www.linkedin.com/in/kaua-ortolani-frontend-jr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/__fkauan.__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://wa.me/5582999447053?text=Ol%C3%A1,%20gostaria%20de%20falar%20com%20voc%C3%AA" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-</a> 
-<a href="mailto:fkobarbosa2016@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-</a> 
+<img height="160"
+src="https://github-readme-stats.vercel.app/api?username=fkauanGIT&show_icons=true&theme=transparent&hide_border=true&title_color=1FB8E5&text_color=f0f0f5&icon_color=1768B5"/>
 
-<br/>
-            
-### 📚 My Stack
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,javascript,html,css,sass,postgres,postman,figma,java,spring" />
+</td>
 
-### 🧠 I'm Learning
-<img src="https://skillicons.dev/icons?i=python,docker"/><br>
-</div>
+<td>
 
-<br/>
-    
-| GitHub Commits | GitHub Details |
-| -------------- | -------------- |
-| ![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fkauanGIT&theme=nord_dark&utcOffset=-3) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkauanGIT&theme=nord_dark) |
+<img height="160"
+src="https://streak-stats.demolab.com?user=fkauanGIT&hide_border=true&background=00000000&stroke=1768B5&ring=1FB8E5&fire=1FB8E5&currStreakNum=f0f0f5&currStreakLabel=1FB8E5&sideNums=f0f0f5&sideLabels=1768B5&dates=f0f0f5"/>
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">🛠️ Hard Skills</h2>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Virtualization-555555?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-1768B5?style=for-the-badge&logo=windows&logoColor=white" />
+
+</p>

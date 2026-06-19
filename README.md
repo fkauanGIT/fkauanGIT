@@ -9,17 +9,10 @@ Passionate about automation, enterprise systems and scalable solutions.
 <table align="center">
 <tr>
 <td>
-
-<img height="160"
-src="https://github-readme-stats.vercel.app/api?username=fkauanGIT&show_icons=true&theme=transparent&hide_border=true&title_color=1FB8E5&text_color=f0f0f5&icon_color=1768B5"/>
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fkauanGIT&show_icons=true&theme=transparent&hide_border=true&title_color=1FB8E5&text_color=f0f0f5&icon_color=1768B5"/>
 </td>
-
 <td>
-
-<img height="160"
-src="https://streak-stats.demolab.com?user=fkauanGIT&hide_border=true&background=00000000&stroke=1768B5&ring=1FB8E5&fire=1FB8E5&currStreakNum=f0f0f5&currStreakLabel=1FB8E5&sideNums=f0f0f5&sideLabels=1768B5&dates=f0f0f5"/>
-
+<img height="160" src="https://streak-stats.demolab.com?user=fkauanGIT&hide_border=true&background=00000000&stroke=1768B5&ring=1FB8E5&fire=1FB8E5&currStreakNum=f0f0f5&currStreakLabel=1FB8E5&sideNums=f0f0f5&sideLabels=1768B5&dates=f0f0f5"/>
 </td>
 </tr>
 </table>
@@ -41,8 +34,6 @@ src="https://streak-stats.demolab.com?user=fkauanGIT&hide_border=true&background
   <img src="https://img.shields.io/badge/Infrastructure-1768B5?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<br><br><br>
-
 <h2 align="center">👤 About Me & Soft Skills</h2>
 
 <p align="center">
@@ -60,8 +51,6 @@ src="https://streak-stats.demolab.com?user=fkauanGIT&hide_border=true&background
   And as for a special soft skill: I am absolutely crazy about coffee — <img src="https://skillicons.dev/icons?i=coffeescript" height="20" align="center" />
   </p>
 </blockquote>
-
-<br><br><br>
 
 <h2 align="center">📚 I'm Studying</h2>
 

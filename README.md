@@ -43,4 +43,36 @@ src="https://streak-stats.demolab.com?user=fkauanGIT&hide_border=true&background
 
 <br><br><br>
 
+<h2 align="center">👤 About Me & Soft Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,redhat,kali,blender,threejs,unreal" />
+</p>
+
+<blockquote>
+  <p align="center">
+    <strong>"My Word !"</strong><br>
+    Driven by sharp critical thinking and an insatiable passion for learning, I constantly seek out new challenges to grow.  
+    I embrace mistakes not as failures, but as valuable lessons and feedback loops that fuel my continuous improvement.  
+    Combining adaptability with a problem-solving mindset, I thrive on turning complex obstacles into structured solutions. 
+  </p>
+  <p align="center">
+  And as for a special soft skill: I am absolutely crazy about coffee — <img src="https://skillicons.dev/icons?i=coffeescript" height="20" align="center" />
+  </p>
+</blockquote>
+
+<br><br><br>
+
+<h2 align="center">📚 I'm Studying</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,kubernetes,rabbitmq,redis" />
+</p>
+
+<blockquote>
+  <p align="center">
+    <em>"The human spirit must prevail over technology."</em> — Albert Einstein
+  </p>
+</blockquote>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1FB8E5,50:1768B5,100:221B7A&height=100&section=footer)

@@ -21,12 +21,14 @@ Passionate about automation, enterprise systems and scalable solutions.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -37,7 +39,7 @@ Passionate about automation, enterprise systems and scalable solutions.
 <h2 align="center">👤 About Me & Soft Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,redhat,kali,blender,threejs,unreal" />
+  <img src="https://skillicons.dev/icons?i=arch,kali,blender,threejs" />
 </p>
 
 <blockquote>
@@ -55,7 +57,7 @@ Passionate about automation, enterprise systems and scalable solutions.
 <h2 align="center">📚 I'm Studying</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,kubernetes,rabbitmq,redis" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,kubernetes,redis" />
 </p>
 
 <blockquote>

@@ -54,12 +54,6 @@ Passionate about automation, enterprise systems and scalable solutions.
   </p>
 </blockquote>
 
-<h2 align="center">📚 I'm Studying</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,kubernetes,redis" />
-</p>
-
 <blockquote>
   <p align="center">
     <em>"The human spirit must prevail over technology."</em> — Albert Einstein

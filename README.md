@@ -6,6 +6,10 @@ Backend Developer • Infrastructure Analyst • Linux Enthusiast
 Passionate about automation, enterprise systems and scalable solutions.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fkauanGIT&label=Profile%20views&color=0e1117&style=flat" alt="Profile views" />
+</p>
+
 <table align="center">
 <tr>
 <td>
